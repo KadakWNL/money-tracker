@@ -1,0 +1,47 @@
+Amount,Transaction,Reason,Description,Date,Time
+100,Expense,Grocery/Utility,Soap,2024-12-11,20:17:19
+1500,Income,Savings,Monthly deposit,2024-12-11,20:20:01
+200,Expense,Transportation,Bus fare,2024-12-11,20:25:10
+50,Income,Pocket Money,Allowance,2024-12-11,20:30:45
+300,Expense,Entertainment,Movie ticket,2024-12-11,20:35:22
+1000,Income,Salary,Monthly salary,2024-12-11,20:40:10
+500,Expense,Health/Medical,Doctor visit,2024-12-11,20:45:30
+250,Income,Pocket Money,Allowance,2024-12-11,20:50:55
+150,Expense,Grocery/Utility,Rice,2024-12-11,20:55:30
+400,Income,Savings,Stocks dividend,2024-12-11,21:00:12
+600,Expense,Transportation,Taxi fare,2024-12-11,21:05:40
+200,Income,Pocket Money,Allowance,2024-12-11,21:10:20
+100,Expense,Entertainment,Video game,2024-12-11,21:15:03
+350,Income,Savings,Monthly savings,2024-12-11,21:20:55
+800,Expense,Grocery/Utility,Vegetables,2024-12-11,21:25:40
+900,Income,Salary,Paycheck,2024-12-11,21:30:25
+500,Expense,Health/Medical,Medicine,2024-12-11,21:35:50
+200,Income,Gift,Christmas gift,2024-12-11,21:40:35
+700,Expense,Transportation,Train ticket,2024-12-11,21:45:10
+100,Income,Savings,Emergency fund,2024-12-11,21:50:15
+250,Expense,Entertainment,Concert,2024-12-11,21:55:02
+300,Income,Salary,Bonus,2024-12-11,22:00:30
+400,Expense,Health/Medical,Physiotherapy,2024-12-11,22:05:40
+150,Income,Pocket Money,Allowance,2024-12-11,22:10:15
+600,Expense,Transportation,Bus fare,2024-12-11,22:15:50
+500,Income,Savings,Retirement savings,2024-12-11,22:20:05
+250,Expense,Entertainment,Movie night,2024-12-11,22:25:30
+800,Income,Savings,Bonus deposit,2024-12-11,22:30:45
+100,Expense,Grocery/Utility,Milk,2024-12-11,22:35:10
+900,Income,Pocket Money,Allowance,2024-12-11,22:40:15
+350,Expense,Health/Medical,Dental checkup,2024-12-11,22:45:00
+500,Income,Salary,Salary payment,2024-12-11,22:50:25
+200,Expense,Transportation,Taxi ride,2024-12-11,22:55:30
+150,Income,Savings,Investment,2024-12-11,23:00:10
+600,Expense,Entertainment,Music concert,2024-12-11,23:05:40
+300,Income,Pocket Money,Allowance,2024-12-11,23:10:55
+100,Expense,Health/Medical,Medicine purchase,2024-12-11,23:15:20
+250,Income,Savings,Mutual funds,2024-12-11,23:20:30
+400,Expense,Entertainment,Theater show,2024-12-11,23:25:10
+200,Income,Pocket Money,Allowance,2024-12-11,23:30:00
+350,Expense,Transportation,Train fare,2024-12-11,23:35:45
+1000,Income,Savings,Investment return,2024-12-11,23:40:05
+200,Expense,Health/Medical,Prescription,2024-12-11,23:45:25
+600,Income,Savings,Fixed deposit,2024-12-11,23:50:35
+400,Expense,Entertainment,Online course,2024-12-11,23:55:00
+100,Income,Pocket Money,12,2024-12-11,20:48:21
