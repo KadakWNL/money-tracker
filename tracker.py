@@ -74,7 +74,14 @@ def get_reason(event):
 
 
 file_name = "money_track.csv"
-transaction_data = read_data(file_name)
+transaction_data = ""
+try:
+    transaction_data = read_data(file_name)
+except FileNotFoundError as e:
+    messagebox.showwarning("File not found", """money_track.csv not found.
+Creating a new one.""")
+    with open('money_track.csv', 'w') as file:
+        pass
 
 win = Tk()
 win.title("Money Tracker by KadakWNL")
